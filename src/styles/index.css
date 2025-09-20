@@ -1,0 +1,9 @@
+@import "normilize.css";
+@import "globals.css";
+@import "fonts.css";
+@import "varibles.css";
+
+@import "components/todo.css";
+@import "components/todo-item.css";
+@import "components/field.css";
+@import "components/button.css";
