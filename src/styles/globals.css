@@ -19,3 +19,7 @@ button {
   outline-offset: 4px;
   transition-duration: 0s !important;
 }
+
+svg {
+  pointer-events: none;
+}

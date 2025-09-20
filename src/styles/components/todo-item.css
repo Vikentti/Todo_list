@@ -96,4 +96,8 @@
   &:active {
     scale: 1.05;
   }
+
+  & svg {
+    pointer-events: none;
+  }
 }
